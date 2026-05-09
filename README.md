@@ -16,7 +16,7 @@ file. Copy `.env.example` to `.env`, then replace the placeholder values:
 
 ```env
 EXAMPLE-
-TELEGRAM_BOT_TOKEN=1234567890:token
+TELEGRAM_BOT_TOKEN=1234567890:token_from_botfather
 TELEGRAM_CHAT_ID=123456789
 ```
 
