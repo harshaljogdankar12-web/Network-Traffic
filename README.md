@@ -1,4 +1,4 @@
-# Spherenex Network Traffic Monitor
+# Network Traffic Monitor
 
 ## Start
 
