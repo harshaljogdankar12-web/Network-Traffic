@@ -6,8 +6,8 @@
 start.bat
 ```
 
-Backend: http://localhost:8000  
-Frontend: http://localhost:5173
+Backend: http://localhost  
+Frontend: http://localhost
 
 ## Telegram Alerts
 
@@ -15,7 +15,8 @@ Telegram credentials are loaded from environment variables or a root `.env`
 file. Copy `.env.example` to `.env`, then replace the placeholder values:
 
 ```env
-TELEGRAM_BOT_TOKEN=1234567890:token_from_botfather
+EXAMPLE-
+TELEGRAM_BOT_TOKEN=1234567890:token
 TELEGRAM_CHAT_ID=123456789
 ```
 
